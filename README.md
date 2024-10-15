@@ -1,2 +1,2 @@
-# TL - Token-Login
+# TL - Token Login
 Simple Discord Token Login
