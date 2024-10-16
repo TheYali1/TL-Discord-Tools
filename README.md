@@ -1,7 +1,7 @@
 # TL - Discord Tools
 Simple Discord Tools
 
-![image1](https://i.imagesup.co/images2/218fc67e03792ebebd5beb6f970481e141b7b08d.png)
+![image1](https://i.imagesup.co/images2/6baaecdaf23c2e42c64963dc37559d1b2b5eaf69.png)
 
 ## Donate
 
